@@ -25,7 +25,6 @@ make sure to tag me at the end `@p0x6` so I can review.
 ***
 
 # Mandatory Holberton School React Workshop Exercises
-***
 
 ## 1) Arrow Functions Exercise
 - Below we have a factorial function that clearly uses the 'function' keyword.  **Your challenge exercise is to refactor the factorial function below to use ES6 fat arrow syntax.**  Keep in mind that there isn't anything wrong with using the `function` keyword, but it does look better with the fat arrow syntax instead.
