@@ -38,7 +38,7 @@ make sure to tag me at the end `@p0x6` so I can review.
 
 ***
 
-## Arrow Functions Exercise
+## 1) Arrow Functions Exercise
 - Below we have a factorial function that clearly uses the 'function' keyword.  **Your challenge exercise is to refactor the factorial function below to use ES6 fat arrow syntax.**  Keep in mind that there isn't anything wrong with using the `function` keyword, but it does look better with the fat arrow syntax instead.
 
 ### Fat arrow function rules
@@ -61,7 +61,7 @@ const fact = function factorial(n) {
 ```
 ***
 
-## Destructuring Exercise 1a
+## 2) Destructuring Exercise
 
 - Below we have some code that references `bio` *twice* inside the `isStudent` function.  
 
@@ -83,7 +83,7 @@ function isStudent(bio) {
 
 ***
 
-## Destructuring and Map() Exercise 1b
+## 3) Destructuring and Map() Exercise
 
 - Suppose we have an array of arrays representing a student's assignments.  For example, our array of arrays would look something like this:
 
@@ -115,7 +115,7 @@ const assignments = [
 
 ***
 
-## ES6 Classes Exercise 1a
+## 4) ES6 Classes Exercise
 - Create an ES6 class called `User`.  **Your challenge exercise is to do some basic initialization for instances of the User class inside the constructor.**  Here is what you need to do specifically:
 ```
 - The constructor will accept a 'profile' object that has 'name' and 'title' properties.
@@ -126,7 +126,7 @@ const assignments = [
 
 ***
 
-## ES6 Classes Exercise 1b
+## 5) ES6 Classes Exercise
 - Now that we have our User class, your challenge exercise is to create a subclass of the `User` class called `Student`.  
 - The requirements for the `Student` class are:
 ```
@@ -139,7 +139,7 @@ const assignments = [
 
 ***
 
-## Rest Operator Exercise
+## 6) Rest Operator Exercise
 - Refactor the function below to use the rest operator:
 
 ```javascript
@@ -152,7 +152,7 @@ function totalScore(v, w, x, y, z) {
 }
 ```
 ***
-## Spread Operator Exercise
+## 7) Spread Operator Exercise
 
 - Refactor the function below to use spread operator (arr1 and arr2 are arrays):
 
@@ -163,7 +163,7 @@ function join(arr1, arr2) {
 ```
 
 ***
-## Rest Operator Exercise #2
+## 8) Rest Operator Exercise #2
 
 - Refactor the function below to use only the rest operator:
 
