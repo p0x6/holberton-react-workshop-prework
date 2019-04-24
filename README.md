@@ -25,17 +25,6 @@ make sure to tag me at the end `@p0x6` so I can review.
 ***
 
 # Mandatory Holberton School React Workshop Exercises
-1. [Arrow Functions Exercise](#arrow-functions-exercise)
-2. [Destructuring Exercise 1a](#destructuring-exercise-1a)
-3. [Destructuring Exercise 1b](#destructuring-and-map-exercise-1b)
-4. [ES6 Classes Exercise 1a](#es6-classes-exercise-1a)
-5. [ES6 Classes Exercise 1b](#es6-classes-exercise-1b)
-6. [Rest Operator Exercise](#rest-operator-exercise)
-7. [Spread Operator Exercise](#spread-operator-exercise)
-8. [Rest Operator Exercise 2](#rest-operator-exercise-2)
-
-
-
 ***
 
 ## 1) Arrow Functions Exercise
