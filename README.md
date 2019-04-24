@@ -4,7 +4,7 @@
 
 These exercises are to be completed before the first workshop session. It should take around 1 to 1.5 hours to complete.
 
-### Submission details
+## Submission details
 Please use [JSFiddle](https://jsfiddle.net) complete each exercise.
 **So, you should have a total of 8 JSFiddle url’s as there are 8 exercises.**
 
