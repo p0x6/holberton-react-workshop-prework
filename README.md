@@ -2,7 +2,13 @@
 
 ## Prerequisite work instructions - __Please Read__:
 
-These exercises are to be completed before the first workshop session. It should take around 1 to 1.5 hours to complete.
+__These exercises are to be completed and reviewed by me before the first workshop session.__
+
+```javascript
+completedAndReviewed ? "canJoinClass" : "noClassForYou"
+```
+
+It should take around 1 to 1.5 hours to complete.
 
 ## Submission details
 Please use [JSFiddle](https://jsfiddle.net) complete each exercise.
